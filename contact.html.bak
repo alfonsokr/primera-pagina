@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>soluciones en mantenimiento it</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+
+<meta name="keywords" content="" />
+<meta name="Cool Black" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" media="screen" />
+
+</head>
+
+<body>
+<div id="header">
+	<div id="logo">
+		<h1><a href="#"><span>Soluciones en </span>Mantenimiento  IT</a></h1>
+		
+	</div>
+</div>
+<div id="menu">
+	<ul id="main">
+		<li class="current_page_item"><a href="index.html">INICIO</a></li>
+		<li><a href="servicios.html">SERVICIOS</a></li>
+		<li><a href="galeria.html">GALERIA</a></li>
+		<li><a href="contact.html">CONTACTANOS</a></li>
+	
+	</ul>
+	<div id="quote">
+		<p><q> El sitio donde encontraras los mejores 
+		servicios de mantenimiento </q></p>
+	    </div>
+</div>
+
+		<div id="content">
+			<div class="post">
+				<h1 class="title"><a href="#">Bienvenido a 
+				nuestro sitio!</a></h1>
+				<div class="entry">
+					<table width="448" border="0" align="center">
+					  <tr>
+					    <th scope="row"><div align="center">
+					      <form method="post" action="enviar.php">
+					        <p>
+					          <input type="hidden" name="entrada" value="index" />
+				            </p>
+					        <p><strong>. </strong></p>
+					        <table width="402" border="0" cellpadding="0" cellspacing="0">
+					          <tr>
+					            <td colspan="2"></td>
+				              </tr>
+					          <tr>
+					            <td>&nbsp;</td>
+					            <td>&nbsp;</td>
+				              </tr>
+					          <tr>
+					            <td>Nombre:</td>
+					            <td><input type="text" name="nombre" size="40" /></td>
+				              </tr>
+					          <tr>
+					            <td>&nbsp;</td>
+					            <td>&nbsp;</td>
+				              </tr>
+					          <tr>
+					            <td>Email:</td>
+					            <td><input type="text" name="email" size="40" /></td>
+				              </tr>
+					          <tr>
+					            <td>&nbsp;</td>
+					            <td>&nbsp;</td>
+				              </tr>
+					          <tr>
+					            <td>Asunto:</td>
+					            <td><input type="text" name="asunto" size="40" /></td>
+				              </tr>
+					          <tr>
+					            <td>&nbsp;</td>
+					            <td>&nbsp;</td>
+				              </tr>
+					          <tr>
+					            <td valign="top">Mensaje:</td>
+					            <td><textarea  cols="50" rows="10"></textarea></td>
+				              </tr>
+					          <tr>
+					            <td>&nbsp;</td>
+					            <td>&nbsp;</td>
+				              </tr>
+					          <tr>
+					            <td>&nbsp;</td>
+					            <td><input name="submit" type="submit" value="Enviar" / disabled ></td>
+				              </tr>
+					          <tr>
+					            <td>&nbsp;</td>
+					            <td>&nbsp;</td>
+				              </tr>
+				            </table>
+				          </form>
+					      </p>
+					      </div></th>
+				      </tr>
+				  </table>
+					<p>&nbsp;</p>
+					
+				</div>
+			</div>
+
+			<div class="post">
+				<h2 class="title"><a href="#"> Novedades en 
+				el mundo de la tecnologia </a></h2>
+				
+				<div class="entry">
+					<h3>Así es la Sapphire AMD Radeon RX 480 
+					en detalle</h3>
+					<p>La AMD RX 480 es la próxima apuesta de 
+					la compañía que saldrá a la venta el 
+					próximo 29 de junio, la primera de la 
+					serie Polaris, con la que no tendremos 
+					ningún problema a la hora de ejecutar 
+					juegos a máxima calidad gráfica. También 
+					será una solución ideal para todos los 
+					que estén interesados en la realidad 
+					virtual... </p>
+					<p class="links"><a href="http://
+					computerhoy.com/noticias/hardware/asi-es-
+					sapphire-amd-radeon-rx-480-detalle-47094" 
+					target="_blank" 
+                    
+                    class="more">&laquo;&laquo;&nbsp;&nbsp;Le
+                    er mas&nbsp;&nbsp;&raquo;&raquo;</a></p>
+					<iframe width="1000" height="606" src="https://www.youtube.com/embed/Cu_NwCnXz7o" title="¿Se puede jugar sin GPU? - Ryzen 5 2400G VEGA 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+
+		<div style="clear:both">&nbsp;</div>
+	</div>
+</div>
+<div id="footer"><div class="fright"></div><div class="fcenter"><p>Creado por: <span style="color:#ff5f00">Juan David Gonzalez y Victorokr</span></p></div><div class="fclear"></div></div>
+</body>
+</html>
